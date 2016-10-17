@@ -1,0 +1,22 @@
+{
+  "name": "uswds",
+  "homepage": "https://github.com/NathanWorkman/uswds",
+  "authors": [
+    "Nathan Workman <nathancworkman@gmail.com>"
+  ],
+  "description": "U.S. Web Design Standards",
+  "main": "",
+  "keywords": [
+    "US",
+    "Web",
+    "Design",
+    "Standars"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

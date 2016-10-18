@@ -5,3 +5,7 @@ Bower package for [https://github.com/18F/web-design-standards](https://github.c
 More Info: 
  - [https://github.com/18F/web-design-standards](https://github.com/18F/web-design-standards)
  - [https://standards.usa.gov](https://standards.usa.gov)
+
+# Installation
+
+        bower install us-wds 
